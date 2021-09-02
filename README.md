@@ -1,6 +1,6 @@
 # Reaction-Test-Tool
 
-This APP can help test your responsiveness. Through the test, you can understand your reaction and make a plan to improve your reaction ability accordingly.
+This APP can help test your responsiveness. Through the test, you can understand your reaction and make a plan to improve your reaction ability accordingly.  
 This is a simple tool to measure your reaction time.
 The reaction time of non-trained athletes is usually between 0.2 and 0.3 seconds, while a well-trained athlete can only reach 0.1 to 0.2 seconds.
 
